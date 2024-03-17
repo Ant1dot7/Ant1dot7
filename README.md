@@ -28,6 +28,7 @@
 
 ### 💻 Other technologies:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="60" height="60"/>&nbsp
