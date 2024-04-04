@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" alt="apachekafka" width="60" height="60"/>&nbsp
-  <img src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png" title="celery" alt="celery" width="60" height="60"/>&nbsp
+  <img src="https://github.com/celery/celery/blob/main/docs/images/celery-banner.png" title="celery" alt="celery" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="60" height="60"/>&nbsp
 
 </div>
